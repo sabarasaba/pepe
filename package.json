@@ -1,0 +1,17 @@
+{
+  "name": "pepe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.9",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.6"
+  }
+}
